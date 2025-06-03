@@ -1,0 +1,10 @@
+Meses con mayores y menores ventas:
+--------------------------------------------------
+  - Mes con mejores ventas: Febrero ($6097.35)
+  - Mes con peores ventas: Mayo ($2451.54)
+
+Productos con mayores ventas:
+--------------------------------------------------
+  - Crema antiarrugas ($22157.85)
+  - Gel para la ducha ($7690.08)
+  - Jabón de cuerpo ($6553.71)
